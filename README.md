@@ -6,8 +6,10 @@ This project was built based off Wikipedia. The preproccessed data is available 
 The proccesed Indices are available at: https://console.cloud.google.com/storage/browser/wiki_irt_data
 
 ### Getting started:
-follow instructions in run_frontend_in_gcp.sh to start a instance on GCP\n
-uplod search engine files to instance\n
+follow instructions in run_frontend_in_gcp.sh to start a instance on GCP
+
+uplod search engine files to instance
+
 !python3 search_frontend.py
 
 ### Method Overview 
